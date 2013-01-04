@@ -1,0 +1,715 @@
+74
+y
+Coca Cola Light
+Carbonated Beverages
+00001
+2.3
+The Coca-Cola Company
+1231
+233
+06102019
+0
+y
+Coca Cola Vanilla
+Carbonated Beverages
+00002
+2.5
+The Coca-Cola Company
+4542
+254
+06102019
+0
+y
+Coca-Cola C2
+Carbonated Beverages
+00003
+2.5
+The Coca-Cola Company
+3323
+532
+06102019
+0
+y
+Coca-Cola Citra
+Carbonated Beverages
+00004
+2.5
+The Coca-Cola Company
+4134
+1343
+06102019
+0
+y
+Coca-Cola with Lemon
+Carbonated Beverages
+00005
+2.5
+The Coca-Cola Company
+1341
+3451
+06102019
+0
+y
+Coca-Cola with Lime
+Carbonated Beverages
+00006
+2.5
+The Coca-Cola Company
+3135
+341
+06102019
+0
+y
+Coca-Cola with Raspberry
+Carbonated Beverages
+00007
+2.5
+The Coca-Cola Company
+4313
+134
+06102019
+0
+y
+Coca-Cola Zero
+Carbonated Beverages
+00008
+2.5
+The Coca-Cola Company
+1413
+1341
+06102019
+0
+y
+Coca-Cola Black Cherry Vanilla
+Carbonated Beverages
+00009
+2.5
+The Coca-Cola Company
+1031
+311
+06102019
+0
+y
+Coca-Cola Sweetened
+Carbonated Beverages
+00010
+2.5
+The Coca-Cola Company
+1212
+234
+06102019
+0
+y
+Sprite
+Carbonated Beverages
+00011
+1.8
+The Coca-Cola Company
+131
+1234
+06102019
+0
+y
+100PLUS
+Carbonated Beverages
+00012
+1.5
+F&N
+232
+253
+04062017
+0
+y
+Outrageous Orange Sparking Drink
+Carbonated Beverages
+00013
+1.7
+F&N
+32
+314
+04062017
+0
+y
+Zesty Zapple Sparking Drink
+Carbonated Beverages
+00014
+1.7
+F&N
+132
+455
+04062017
+0
+y
+Groovy Grape Sparking Drink
+Carbonated Beverages
+00015
+1.7
+F&N
+345
+11
+04062017
+0
+y
+Flashy Fruitade Sparking Drink
+Carbonated Beverages
+00016
+1.7
+F&N
+312
+231
+04062017
+0
+y
+Cool Ice Cream Soda Sparking Drink
+Carbonated Beverages
+00017
+1.7
+F&N
+512
+4
+04062017
+0
+y
+Cheeky Cherryade Sparking Drink
+Carbonated Beverages
+00018
+1.7
+F&N
+223
+23
+04062017
+0
+y
+Smashing Strawberry Sparking Drink
+Carbonated Beverages
+00019
+1.7
+F&N
+214
+532
+04062017
+0
+y
+Lo-Fat High-Cal Chocolate Milk
+Milk
+00020
+3.45
+F&N Magnolia
+232
+50
+28032012
+0
+y
+Lo-Fat High-Cal Banana Milk
+Milk
+00021
+3.45
+F&N Magnolia
+59
+32
+28032012
+0
+y
+Lo-Fat High-Cal Strawberry Milk
+Milk
+00022
+3.45
+F&N Magnolia
+121
+21
+28032012
+0
+y
+Lo-Fat High-Cal Vanilla Milk
+Milk
+00023
+3.45
+F&N Magnolia
+210
+22
+28032012
+0
+y
+Lo-Fat High-Cal Milk
+Milk
+00024
+3.45
+F&N Magnolia
+35
+231
+22032012
+0
+y
+Fresh Chocolate Flavoured Milk
+Milk
+00025
+4.15
+Meiji Seika
+93
+231
+28032012
+0
+y
+Fresh Strawberry Flavoured Milk
+Milk
+00026
+4.15
+Meiji Seika
+123
+231
+28032012
+0
+y
+Fresh Vanilla Flavoured Milk
+Milk
+00027
+4.15
+Meiji Seika
+356
+31
+28032012
+0
+y
+Fresh Milk
+Milk
+00028
+4.15
+Meiji Seika
+267
+34
+28032012
+0
+y
+HL Milk
+Milk
+00029
+3.79
+Marigold
+267
+53
+28032012
+0
+y
+HL Strawberry Milk
+Milk
+00030
+3.79
+Marigold
+267
+123
+28032012
+0
+y
+HL Chocolate Milk
+Milk
+00031
+3.79
+Marigold
+322
+123
+28032012
+0
+y
+HL Vanilla Milk
+Milk
+00032
+3.79
+Marigold
+41
+532
+28032012
+0
+y
+HL Banana Milk
+Milk
+00033
+3.79
+Marigold
+122
+122
+21032012
+5
+n
+Lux Soft Touch Bar Soap
+Soap
+00034
+1.19
+Unilever
+34
+2
+n
+Lux Wake Me Up Bar Soap
+Soap
+00035
+1.29
+Unilever
+424
+24
+n
+Lux Magic Spell Bar Soap
+Soap
+00036
+1.19
+Unilever
+132
+111
+n
+Lux Velvet Touch Bar Soap
+Soap
+00037
+1.19
+Unilever
+542
+31
+n
+Lux Scarlet Blossom Shower Gel
+Soap
+00038
+2.34
+Unilever
+232
+34
+n
+Strawberry & Cream Shower Gel
+Soap
+00039
+2.34
+Unilever
+22
+435
+n
+Magical Spell Shower Gel
+Soap
+00040
+2.34
+Unilever
+111
+122
+n
+Lifebuoy Total Protect Bar Soap
+Soap
+00041
+2.4
+Unilever
+21
+321
+n
+Lifebuoy Active Fresh Bar Soap
+Soap
+00042
+2.4
+Unilever
+21
+2342
+n
+Lifebuoy Nature Pure Bar Soap
+Soap
+00043
+2.4
+Unilever
+21
+232
+n
+Correction Tape Refill CT-CR6
+Stationery
+00044
+5.43
+TOMBO
+124
+222
+n
+Correction Tape Refill CT-CR5
+Stationery
+00045
+5.43
+TOMBO
+14
+343
+n
+Correction Tape Refill CT-CR7
+Stationery
+00046
+5.43
+TOMBO
+213
+52
+y
+Nescafe Original
+Coffee
+00047
+7.23
+Nescafe
+343
+322
+23042013
+0
+y
+Nescafe 3-in-1
+Coffee
+00048
+7.23
+Nescafe
+122
+232
+23042013
+0
+y
+Nescafe Alta Rica
+Coffee
+00049
+10.43
+Nescafe
+32
+332
+23042013
+0
+y
+Nescafe Cap Colombie
+Coffee
+00050
+7.23
+Nescafe
+322
+43
+23042013
+0
+y
+Nescafe Expresso
+Coffee
+00051
+7.23
+Nescafe
+23
+424
+23042013
+0
+y
+Nescafe Gold Blend
+Coffee
+00052
+9.93
+Nescafe
+431
+125
+23042013
+0
+y
+Nescafe Green Blend
+Coffee
+00053
+7.23
+Nescafe
+343
+0
+23042013
+0
+y
+Nescafe Cappuccino
+Coffee
+00054
+7.23
+Nescafe
+155
+637
+23042013
+0
+y
+Nescafe Original Decaff
+Coffee
+00055
+8.99
+Nescafe
+323
+23
+23042013
+0
+y
+Nescafe Gold Blend Decaff
+Coffee
+00056
+8.99
+Nescafe
+13
+689
+23042013
+0
+y
+Junior White Thick Slice Bread
+Breads and Rolls
+00057
+2.1
+Gardenia
+594
+32
+30032012
+0
+y
+Enriched White Bread
+Breads and Rolls
+00058
+2.1
+Gardenia
+1933
+23
+30032012
+0
+y
+Jumbo 600 Enriched White Bread
+Breads and Rolls
+00059
+2.1
+Gardenia
+324
+134
+30032012
+0
+y
+High Fibre White Bread Plus Omega and Insulin
+Breads and Rolls
+00060
+2.3
+Gardenia
+23
+33
+30032012
+0
+y
+Hi Calcium Milk Bread
+Breads and Rolls
+00061
+2.1
+Gardenia
+243
+22
+30032012
+0
+y
+Whitemeal Bread
+Breads and Rolls
+00062
+2.1
+Gardenia
+122
+322
+30032012
+0
+y
+Junior Fine Grain Wholemeal Bread
+Breads and Rolls
+00063
+2.1
+Gardenia
+22
+341
+19032012
+70
+y
+Fine Grain Wholemeal Bread
+Breads and Rolls
+00064
+2.5
+Gardenia
+21
+123
+30032012
+0
+y
+Royal White Bread
+Breads and Rolls
+00065
+2.99
+Gardenia
+121
+23
+25032012
+5
+y
+Super Soft & Fine Enriched Wholemeal White Bread (50%)
+Breads and Rolls
+00066
+2.3
+Gardenia
+789
+230
+30032012
+10
+y
+Super Soft & Fine Enriched Wholemeal Bread
+Breads and Rolls
+00067
+2.1
+Gardenia
+234
+120
+25032012
+10
+y
+Wholemeal Bread
+Breads and Rolls
+00068
+2.1
+Gardenia
+43
+1230
+30032012
+0
+y
+Low GI Nutri Multi-Grain
+Breads and Rolls
+00069
+2.4
+Gardenia
+233
+302
+30032012
+0
+y
+Focaccia
+Breads and Rolls
+00070
+2.69
+Gardenia
+23
+43
+24032012
+5
+y
+California Raisin Loaf
+Breads and Rolls
+00071
+2.3
+Gardenia
+523
+23
+30032012
+0
+y
+Fruit and Nut Loaf
+Breads and Rolls
+00072
+2.3
+Gardenia
+342
+12
+30032012
+0
+y
+Banana Walnut Loaf
+Breads and Rolls
+00073
+2.3
+Gardenia
+23
+34
+19032012
+50
+y
+Corn Loaf
+Breads and Rolls
+00074
+2.3
+Gardenia
+1
+1234
+30032012
+0

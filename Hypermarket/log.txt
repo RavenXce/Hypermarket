@@ -1,0 +1,17 @@
+[Executed by <ivan> on <4/11/2012 7:10:22 PM>]
+123 DELETE ivan
+20 SALE ivan
+[Executed by <ivan> on <4/11/2012 7:46:34 PM>]
+[Executed by <ivan> on <4/11/2012 7:48:10 PM>]
+123 DELETE ivan
+20 SALE ivan
+20 SALE ivan
+1000009 DISPOSE Lennord
+100000 DELETE Lennord
+1000001 DELETE Sheldon Cooper
+1000009 DISPOSE Sheldon Cooper
+1002258 ADD Penny
+1000002 DELETE Penny
+1000003 DELETE Penny
+1000011 RESTOCK Penny
+[Executed by <ivan> on <4/11/2012 7:49:44 PM>]

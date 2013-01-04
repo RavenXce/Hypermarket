@@ -1,0 +1,83 @@
+10
+n
+Stationary_0
+Stationary
+1000000
+97.1
+Parker
+954
+296
+n
+Meat_1
+Meat
+1000001
+3.03
+Super Pig
+742
+235
+n
+Lady's Accessories_2
+Lady's Accessories
+1000002
+19.27
+Tiffany and Co
+506
+11
+n
+Camping Equipment_3
+Camping Equipment
+1000003
+29.55
+ODAC Pte Ltd
+421
+10
+n
+Fruit_4
+Fruit
+1000004
+20.31
+The Sunkist Co
+235
+154
+n
+Shoes_5
+Shoes
+1000005
+79.89
+Nike
+490
+96
+n
+Lady's Accessories_6
+Lady's Accessories
+1000006
+86.71
+Tiffany and Co
+387
+14
+n
+Fruit_7
+Fruit
+1000007
+21.62
+The Sunkist Co
+163
+160
+n
+Computers_8
+Computers
+1000008
+20.47
+HP
+108
+66
+y
+Computers_9
+Computers
+1000009
+98.3
+HP
+553
+466
+14022012
+3

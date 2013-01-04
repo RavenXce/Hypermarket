@@ -1,0 +1,65 @@
+10
+Penny
+4
+ADD
+Lady's Accessories_2258
+Lady's Accessories
+1002258
+30.54
+Tiffany and Co
+330
+DELETE
+1000002
+DELETE
+1000003
+RESTOCK
+1000011
+123
+Sheldon Cooper
+2
+DELETE
+1000001
+DISPOSE
+1000009
+12012013
+Lennord
+5
+ADD
+Lady's Accessories_2258
+Lady's Accessories
+1002258
+30.54
+Tiffany and Co
+330
+ADD
+Fruit_2259
+Fruit
+1002259
+65.17
+The Sunkist Co
+901
+ADD
+Poultry_2261
+Poultry
+1002261
+25.58
+Kentucky Chicken
+271
+DISPOSE
+1000009
+12012012
+DELETE
+100000
+ivan
+1
+DISCOUNT
+50
+50
+ivan
+1
+DISPOSEALL
+12042012
+ivan
+1
+DISPOSEALL
+12042012
